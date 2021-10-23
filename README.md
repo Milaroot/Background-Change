@@ -1,2 +1,2 @@
 # Background-Change
-#BetterDiscord background auto change
+#BetterDiscord Theme.css background auto change
