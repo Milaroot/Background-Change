@@ -27,7 +27,7 @@ int main() {
         myFile.open("Template.css");
         ofstream Dc_css("		.css",ios::trunc); //Theme css
         while (getline(myFile, line)) {
-            if (line_num != ){         //line_num
+            if (line_num + 1 !=  ){         //line_num
                 Dc_css << line << "\n";
             }
             else{
